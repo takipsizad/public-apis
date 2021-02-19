@@ -206,7 +206,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Nexchange](https://nexchange2.docs.apiary.io/) | Automated cryptocurrency exchange service | No | No | Yes |
 | [Poloniex](https://poloniex.com/support/api/) | US based digital asset exchange | `apiKey` | Yes | Unknown |
 | [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) | Cryptocurrencies Prices | `apiKey` | Yes | Unknown |
-| [Ethapi](https://ethapi.takipsizad.repl.co/) | Ethereum related things | `apiKey` | Yes | Unknown |
+| [Ethapi](https://ethapi.takipsizad.repl.co/) | Ethereum related things |  No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 ### Currency Exchange
